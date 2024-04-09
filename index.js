@@ -2,7 +2,7 @@ let my_const = 76;
 my_const = 43;
 
 let chaine = "Hello world";
-chane = "hello";
+// chane = "hello";
 chaine = `Hello ${my_const}`;
 let numero = 87.0;
 let open = true;
@@ -81,3 +81,14 @@ for(let i in identite){
 //   }
 // } else if (nullValue) {
 // }
+
+
+let ch = "Hello "
+// let ch = 90;
+if(c){
+ let ch;
+ ch = 98;
+}
+let ch2 = "World"
+let ch3 = `${ch} ${ch2}`
+console.log(ch3)
